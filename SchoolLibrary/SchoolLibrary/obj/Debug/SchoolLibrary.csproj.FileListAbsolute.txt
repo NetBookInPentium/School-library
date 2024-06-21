@@ -1,0 +1,10 @@
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.exe.config
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.exe
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.AssemblyReference.cache
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.Form1.resources
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.Properties.Resources.resources
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.GenerateResource.cache
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.exe
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb

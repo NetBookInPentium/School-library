@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Susny\\School-library\\SchoolLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E0CC0E4-A981-4FF8-872B-B6E88C37D029}|SchoolLibrary\\SchoolLibrary.csproj|d:\\susny\\school-library\\schoollibrary\\schoollibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0CC0E4-A981-4FF8-872B-B6E88C37D029}|SchoolLibrary\\SchoolLibrary.csproj|solutionrelative:schoollibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0CC0E4-A981-4FF8-872B-B6E88C37D029}|SchoolLibrary\\SchoolLibrary.csproj|d:\\susny\\school-library\\schoollibrary\\schoollibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E0CC0E4-A981-4FF8-872B-B6E88C37D029}|SchoolLibrary\\SchoolLibrary.csproj|solutionrelative:schoollibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8E0CC0E4-A981-4FF8-872B-B6E88C37D029}|SchoolLibrary\\SchoolLibrary.csproj|d:\\susny\\school-library\\schoollibrary\\schoollibrary\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0CC0E4-A981-4FF8-872B-B6E88C37D029}|SchoolLibrary\\SchoolLibrary.csproj|solutionrelative:schoollibrary\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Susny\\School-library\\SchoolLibrary\\SchoolLibrary\\Form1.cs",
-              "RelativeDocumentMoniker": "SchoolLibrary\\Form1.cs",
-              "ToolTip": "D:\\Susny\\School-library\\SchoolLibrary\\SchoolLibrary\\Form1.cs",
-              "RelativeToolTip": "SchoolLibrary\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\Susny\\School-library\\SchoolLibrary\\SchoolLibrary\\Menu.cs",
+              "RelativeDocumentMoniker": "SchoolLibrary\\Menu.cs",
+              "ToolTip": "D:\\Susny\\School-library\\SchoolLibrary\\SchoolLibrary\\Menu.cs [Design]",
+              "RelativeToolTip": "SchoolLibrary\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:18:56.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Susny\\School-library\\SchoolLibrary\\SchoolLibrary\\Form1.cs",
-              "RelativeDocumentMoniker": "SchoolLibrary\\Form1.cs",
-              "ToolTip": "D:\\Susny\\School-library\\SchoolLibrary\\SchoolLibrary\\Form1.cs [Design]",
-              "RelativeToolTip": "SchoolLibrary\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:13:41.599Z",
+              "WhenOpened": "2024-06-21T09:59:59.124Z",
               "EditorCaption": " [Design]"
             }
           ]
