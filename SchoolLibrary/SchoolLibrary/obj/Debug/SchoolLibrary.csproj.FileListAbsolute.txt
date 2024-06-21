@@ -8,3 +8,4 @@ D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.cspr
 D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
 D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.exe
 D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb
+D:\Susny\School-library\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.Menu.resources
